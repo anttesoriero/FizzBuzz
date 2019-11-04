@@ -1,8 +1,8 @@
 # FizzBuzz
-The FizzBuzz Problem in multiple languages, from 1 to selected n.
+The FizzBuzz Problem in multiple languages.
 
 ## The FizzBuzz Problem
-- Write a program that outputs integers 1 to user selected n.
+- Write a program that outputs integers 1 to 100.
 - For multiples of 3, output "Fizz" instead of the integer.
 - For multiples of 5, output "Buzz" instead of the integer.
 
