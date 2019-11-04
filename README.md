@@ -10,6 +10,7 @@ The FizzBuzz Problem in multiple languages, from 1 to 100.
 - [Python 3](FizzBuzz.py) (4 November 2019)
 - [Java](FizzBuzz.java) (4 November 2019)
 - [C](FizzBuzz.c) (4 November 2019)
+- [Swift](FizzBuzz.swift) (4 November 2019)
 
 ## Authors
 Problems done by Anthony Tesoriero, B.S. in Computer Science at Rowan University - [Info/Resume](http://anttes.com)
