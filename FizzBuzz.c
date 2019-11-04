@@ -23,6 +23,8 @@ int main(void)
         	printf("Fizz\n");
         else if(i % 5 == 0)
         	printf("Buzz\n");
+        else if(i % 15 == 0)
+            printf("FizzBuzz\n");
         else
         	printf("%d\n", i);
     }
