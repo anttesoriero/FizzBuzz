@@ -2,6 +2,7 @@
 # Print numbers from 1 to selected n
 # For multiples of 3, print "Fizz" instead
 # For multiples of 5, print "Buzz" instead
+# For multiples of 15, print "FizzBuzz" instead
 
 # Error Handing
 while True:
@@ -17,5 +18,7 @@ for i in range(1, n+1):
 		print("Fizz")
 	elif i % 5 == 0:
 		print("Buzz")
+	elif i % 15 == 0:
+		print("FizzBuzz")
 	else:
 		print(i)
