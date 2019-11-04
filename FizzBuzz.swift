@@ -3,6 +3,7 @@
  Print numbers from 1 to selected n
  For multiples of 3, print "Fizz" instead
  For multiples of 5, print "Buzz" instead
+ For multiples of 15, print "FizzBuzz" instead
  */
  
 // User Selection
@@ -16,6 +17,9 @@ for i in 1 ... n! {
     }
     else if i % 5 == 0 {
         print("Buzz")
+    }
+    else if i % 15 == 0 {
+        print("FizzBuzz")
     }
     else {
         print(i)
