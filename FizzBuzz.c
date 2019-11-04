@@ -4,6 +4,7 @@ Anthony Tesoriero, FizzBuzz
 Print numbers from 1 to selected n
 For multiples of 3, print "Fizz" instead
 For multiples of 5, print "Buzz" instead
+For multiples of 15, print "FizzBuzz" instead
 */
 
 #include <stdio.h>
