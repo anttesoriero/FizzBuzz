@@ -8,6 +8,7 @@ The FizzBuzz Problem in multiple languages, from 1 to selected n.
 
 ## Languages Solved
 - [Python 3](FizzBuzz.py) (4 November 2019)
+- [Java](FizzBuzz.java) (4 November 2019)
 
 ## Authors
 Problems done by Anthony Tesoriero, B.S. in Computer Science at Rowan University - [Info/Resume](http://anttes.com)
