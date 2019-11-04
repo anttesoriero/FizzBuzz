@@ -1,0 +1,33 @@
+/*
+Anthony Tesoriero, FizzBuzz
+
+Print numbers from 1 to selected n
+For multiples of 3, print "Fizz" instead
+For multiples of 5, print "Buzz" instead
+*/
+
+import java.util.Scanner;
+
+public class FizzBuzz
+{
+	
+	public static void main(String[] args) {
+	
+			// User Selection
+			Scanner in = new Scanner(System.in);
+			System.out.print("Choose an Integer: ");
+			int n = in.nextInt();
+			
+			// FizzBuzz
+			for(int i = 1; i <= n; i++)
+			{
+			    if(i % 3 == 0)
+			    	System.out.println("Fizz");
+			    	
+			    else if(i % 5 == 0)
+			    	System.out.println("Buzz");
+			    else
+			    	System.out.println(i);
+			}
+	}
+}
