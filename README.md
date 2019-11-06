@@ -8,12 +8,12 @@ The FizzBuzz Problem in multiple languages, from 1 to user selected n.
 - For multiples of 15, output "FizzBuzz" instead of the integer.
 
 ## Languages Solved
-- [Python 3](FizzBuzz.py) (4 November 2019)
-- [Java](FizzBuzz.java) (4 November 2019)
-- [C](FizzBuzz.c) (4 November 2019)
-- [Swift](FizzBuzz.swift) (4 November 2019)
-- [Ada](fizzbuzz.adb) (5 November 2019)
-- [Scheme](FizzBuzz.scm) (5 November 2019)
+- [Python 3](FizzBuzz/FizzBuzz.py) (4 November 2019)
+- [Java](FizzBuzz/FizzBuzz.java) (4 November 2019)
+- [C](FizzBuzz/FizzBuzz.c) (4 November 2019)
+- [Swift](FizzBuzz/FizzBuzz.swift) (4 November 2019)
+- [Ada](FizzBuzz/FizzBuzz.adb) (5 November 2019)
+- [Scheme](FizzBuzz/FizzBuzz.scm) (5 November 2019)
 
 ## Authors
 Problems done by Anthony Tesoriero, B.S. in Computer Science at Rowan University - [Info/Resume](http://anttes.com)
