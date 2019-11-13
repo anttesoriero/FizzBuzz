@@ -14,6 +14,7 @@ The FizzBuzz Problem in multiple languages, from 1 to user selected n.
 - [Swift](FizzBuzz/FizzBuzz.swift) (4 November 2019)
 - [Ada](FizzBuzz/FizzBuzz.adb) (5 November 2019)
 - [Scheme](FizzBuzz/FizzBuzz.scm) (5 November 2019)
+- [Prolog](FizzBuzz) (Coming Soon)
 
 ## Authors
 Problems done by Anthony Tesoriero, B.S. in Computer Science at Rowan University - [Info/Resume](http://anttes.com)
